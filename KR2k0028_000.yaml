@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0028/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0028_WYG_000-1a, image: WYG0492/WYG0492-0653a.png}
+body:
+  text: 無錫縣志地理類三都㑹郡縣之屬提要臣等謹案無錫縣志四卷不著撰人名氏考千頃堂書目有元王仁輔無錫縣志二十八卷與此本卷數不符蓋别一書也考明史地里志洪武二年四月始改無錫州為縣是志古今郡縣表末雖止於升無錫縣為州然標題實稱為無錫縣已為明初之制又郡縣表止元貞而學校類中已載至正辛巳鄉舉陸以衜則所紀已逮元末是洪武中書矣第一卷為邑里第二卷為山川第三卷為事物分上下二子卷第四卷為詞章亦分上中下三子卷中又分小類二十一詞簡而事該亦地志之善本惜首卷原序已佚其撰次本末不可得而考也元史地里志稱成宗元貞二年升無錫為州此志乃云二年作志者紀録時事嵗月必確以是推之知元史疏漏多矣是亦書貴舊本之一驗也乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:0be2d758e786bcf3c096ca62d8229618c114fc8afd3191cb1cb33739eb1fcd16
+metadata:
+  title: 無錫縣志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:39:53.665672'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0028/KR2k0028_000.txt
+hash: sha256:54365d0b59205989098a7ce36babbb9ae4e48f8f6ab5e920591abfad87a19afd
